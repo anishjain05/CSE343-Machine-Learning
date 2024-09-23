@@ -1,2 +1,2 @@
 # ML Assignments
- Assignments from CSE343 (Machine Learning) @ IIITD
+ Coursework done as part of CSE343 (Machine Learning) at IIITD
